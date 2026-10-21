@@ -55,11 +55,11 @@ function Home() {
           </div>
 
           <div>
-            <img
-              src="/public/rafi-sir.jpg"
-              alt="Rafi Sir - Rafi's Classroom"
-              className="w-full h-[350px] md:h-[450px] object-cover object-top rounded-3xl border-4 border-white shadow-2xl"
-            />
+           <img
+  src="/rafi-sir.jpg"
+  alt="Rafi Sir - Rafi's Classroom"
+  className="w-full h-[350px] md:h-[450px] object-cover object-top rounded-3xl border-4 border-white shadow-2xl"
+/>
           </div>
         </div>
       </section>
